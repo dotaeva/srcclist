@@ -1,0 +1,12 @@
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\bin\Release\srCCListRevamp.exe.config
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\bin\Release\srCCListRevamp.exe
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\bin\Release\srCCListRevamp.pdb
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\obj\Release\srCCListRevamp.csprojAssemblyReference.cache
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\obj\Release\srCCListRevamp.helpform.resources
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\obj\Release\srCCListRevamp.main.resources
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\obj\Release\srCCListRevamp.Properties.Resources.resources
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\obj\Release\srCCListRevamp.results.resources
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\obj\Release\srCCListRevamp.csproj.GenerateResource.cache
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\obj\Release\srCCListRevamp.csproj.CoreCompileInputs.cache
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\obj\Release\srCCListRevamp.exe
+C:\Users\aeva\source\repos\srCCListRevamp\srCCListRevamp\obj\Release\srCCListRevamp.pdb
